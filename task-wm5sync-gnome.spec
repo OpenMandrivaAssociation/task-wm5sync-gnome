@@ -1,6 +1,6 @@
 Name:		task-wm5sync-gnome
 Version:	1.0
-Release:	%{mkrel 1}
+Release:	%{mkrel 2}
 Summary:	GNOME metapackage for connecting to Windows Mobile 5+
 Group:		Communications
 License:	GPLv2+
