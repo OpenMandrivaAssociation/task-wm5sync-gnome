@@ -1,6 +1,6 @@
 Name:		task-wm5sync-gnome
 Version:	1.0
-Release:	%{mkrel 2}
+Release:	%{mkrel 1}
 Summary:	GNOME metapackage for connecting to Windows Mobile 5+
 Group:		Communications
 License:	GPLv2+
@@ -20,4 +20,12 @@ clearly the best available application for graphically configuring
 partnerships and installing / removing software on these devices.
 
 %files
+
+
+
+%changelog
+* Wed Mar 12 2008 Adam Williamson <awilliamson@mandriva.com> 1.0-1mdv2008.1
++ Revision: 187263
+- import task-wm5sync-gnome
+
 
